@@ -719,7 +719,7 @@ class TikTok:
         latest: date = None,
         tiktok: bool = False,
         info: dict = None,
-        mode: str = "",
+        mode: str = "post",
         mark: str = "",
         user_id: str = "",
         mix_id: str = "",
